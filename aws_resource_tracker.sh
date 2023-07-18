@@ -7,6 +7,8 @@
 # Description : This script will give the Aws resource information
 ##################################################################
 
+#Note please set your reagion and output type before runnning this script
+
 echo "Script started ==================================="
 
 set -x
